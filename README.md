@@ -124,11 +124,7 @@ streamlit run app.py
 
 Dashboard:
 
-
-
-
-Other pages images:
-
+<img width="2627" height="1391" alt="Screenshot 2026-08-03 010611" src="https://github.com/user-attachments/assets/88418790-7e32-4735-8b33-9b6d776308de" />
 
 
 ---
