@@ -136,7 +136,7 @@ Other pages images:
 <img width="2758" height="1257" alt="Screenshot 2026-08-03 000720" src="https://github.com/user-attachments/assets/9001c622-4f55-4b4e-a19d-3947767239ea" />
 
 
-<img width="2758" height="1257" alt="Screenshot 2026-08-03 000720" src="https://github.com/user-attachments/assets/0bedaba6-f2d1-4e58-a63d-8197212e9ac8" />
+<img width="2794" height="1289" alt="Screenshot 2026-08-03 000942" src="https://github.com/user-attachments/assets/30903a19-73b7-49b2-8844-48c6c34b1130" />
 
 ---
 
