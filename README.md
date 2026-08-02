@@ -126,14 +126,17 @@ Dashboard:
 
 <img width="2785" height="1175" alt="Screenshot 2026-08-03 001053" src="https://github.com/user-attachments/assets/c8f12a0e-568b-4e13-a753-b5a36687b798" />
 
+
+<img width="2823" height="1413" alt="Screenshot 2026-08-03 001025" src="https://github.com/user-attachments/assets/4b25840b-0cff-47db-84bf-7b94a5a18cfb" />
+
+
 Other pages images:
+
 
 <img width="2758" height="1257" alt="Screenshot 2026-08-03 000720" src="https://github.com/user-attachments/assets/9001c622-4f55-4b4e-a19d-3947767239ea" />
 
-```
-images/dashboard.png
-images/prediction.png
-```
+
+<img width="2758" height="1257" alt="Screenshot 2026-08-03 000720" src="https://github.com/user-attachments/assets/0bedaba6-f2d1-4e58-a63d-8197212e9ac8" />
 
 ---
 
